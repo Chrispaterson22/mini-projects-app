@@ -6,7 +6,6 @@ import ExpandingCards from '../components/projects/ExpandingCards'
 const ProjectScreen = () => {
 	return (
 		<View>
-			<Text>Project Screen</Text>
 			<ExpandingCards />
 		</View>
 	)
